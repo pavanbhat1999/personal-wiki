@@ -1,4 +1,13 @@
+- [[ Buy your domain around 1 Dollar ]]
 - Pandoc presntations
+<<<<<<< HEAD
 - [[Fontello]] [[brave]] icons
 - Wallpaper Fetcher
 - Multiple Theme Switcher
+=======
+- Fontello brave icons
+- Wallpaper Fetcher
+- Multiple Theme Switcher
+- How to use npm and node in linux system using nvm
+- create a 3d portfolio
+>>>>>>> ce1d9b45115363d41bffac6ada19bb07d96ebbdb
