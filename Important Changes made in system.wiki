@@ -1,5 +1,16 @@
-# Important modifications made to clean $HOME
 
+# NOTE: Cool-Scripts
+- cron job for battery notification
+- cron job for changing wallpaper from wall heaven
+- change different themes
+
+
+# Important modifications made to clean $HOME
 - added export statement in ***/etc/zsh/zshenv***
 - startx /custompath
 - added many things to zprofile ( look into zprofile for more info)
+
+
+
+wl-clipboard
+

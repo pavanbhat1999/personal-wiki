@@ -1,0 +1,4 @@
+sudo pacman -S jdk-openjdk jre-openjdk
+
+
+install version 17

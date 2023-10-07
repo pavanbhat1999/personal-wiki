@@ -1,0 +1,5 @@
+- https://computingforgeeks.com/install-kvm-qemu-virt-manager-arch-manjar/
+- sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat
+
+- sudo pacman -S virt-manager qemu-desktop dnsmasq iptables-nft
+- systemctl start libvirtd

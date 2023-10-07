@@ -1,0 +1,14 @@
+changed zshrc
+changes rofi config.rasi
+%% TODO:demnuchanges
+VSCODE extension
+neovim config changes lua line and main config
+
+
+
+=== Hyprland Changes ===
+
+change zshrc
+Added neovim plugin
+added import line at config rofi
+%% wal -R - add as auto startup

@@ -1,0 +1,5 @@
+- Follow Guide on main website
+- [main guide] (https://www.electronjs.org/docs/latest/tutorial/quick-start)
+
+- Build cmd
+    - electron-packager . --platform=linux --arch=x64 --out=dist

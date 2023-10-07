@@ -1,0 +1,3 @@
+epiphany-search
+
+gnome-software

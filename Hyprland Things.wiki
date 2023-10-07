@@ -1,0 +1,8 @@
+
+### Wallpaper Utilities
+
+1. mpvpaper eDP-1 Rain\ Sounds\ \&\ Lofi\ Music\ 🌧\ Relaxing\ Lofi\ Sleep\ \&\ Study\ Music\ 🌧\ 24⧸7\ Lofi\ Radio\ 2023-05-25\ 19_56\ \[lQ2e9Ce0mIQ\].mp4 -o "--loop"
+2. swww init && swww img wall.gif
+    swww img output.gif --transition-type grow --transition-fps 60 --transition-pos bottom-right  --transition-duration 1 --transition-bezier .43,1.19,1,.4
+4. hyprpaper - common one
+

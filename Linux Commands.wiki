@@ -11,3 +11,5 @@
 4. XDG
    - xdg-mime query filetype DSCN4747_DSCN4061_800x600.PNG  image/png
    - xdg-mime query default image/png shotwell-viewer.desktop shutter.desktop
+5. Xbacklight deprecated
+    - acpi light is drop in replacement

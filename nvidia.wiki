@@ -1,0 +1,15 @@
+nvidia
+nvidia-dkms
+nvidia-utils
+nvidia-prime
+glxinfo
+linux-headers
+
+steam
+steam-native-runtime
+
+primus
+
+lutris
+
+wine

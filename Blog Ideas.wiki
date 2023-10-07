@@ -1,2 +1,4 @@
 - Pandoc presntations
-- Fontello brave icons
+- [[Fontello]] [[brave]] icons
+- Wallpaper Fetcher
+- Multiple Theme Switcher

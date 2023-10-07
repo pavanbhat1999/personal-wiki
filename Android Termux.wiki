@@ -1,0 +1,11 @@
+- Connect to phone
+ssh 192.168.1.9 -p 8022
+
+-take a phto
+termux-camera-photo img.jpg
+
+
+-copy content
+
+
+scp -P 8022 u0_a461@192.168.1.9:/data/data/com.termux/files/home/newimag.jpg /home/root99
