@@ -4,3 +4,6 @@ Nix os has a minimal install but i did not see any good usecase to use that mini
 
 - Download nixos from Download page
 - I tried to daily drive nix os but i have gtk problems in standalone window managers, Now I decided to give it a some time in virtaul machine and then move eventualy tofull blown nix os
+
+
+nix-collect-garbage -d
