@@ -1,10 +1,6 @@
 = My notes =
 [[https://github.com/vimwiki/vimwiki|github page for vimwiki]]
-<<<<<<< HEAD
 
-=======
-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
->>>>>>> ce1d9b45115363d41bffac6ada19bb07d96ebbdb
 [[Important Changes made in system]]
 
 [[Linux Commands]]
@@ -17,15 +13,12 @@ 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
 
 [[Tmux]]
 
-<<<<<<< HEAD
 [[nvidia]]
 
 [[Android Termux]]
 
 [[Java - ARch ]]
 
-=======
->>>>>>> ce1d9b45115363d41bffac6ada19bb07d96ebbdb
 [[Softwares To Remember]]
 
 [[Git commands]]
@@ -35,7 +28,6 @@ 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
 [[Blog Ideas]]
 
 [[Salesforce Things]]
-<<<<<<< HEAD
 
 [[Pywal changes]]
 
@@ -54,5 +46,3 @@ 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
 
 
 [[Gnome removals]]
-=======
->>>>>>> ce1d9b45115363d41bffac6ada19bb07d96ebbdb
